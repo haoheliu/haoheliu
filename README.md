@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Warmest greeting from Haohe.
 
-I appreciate your support for open-source research. Creativity is for everyone.
+<!-- I appreciate your support for open-source research. Creativity is for everyone. -->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/haoheliuP)
 

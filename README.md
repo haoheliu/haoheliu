@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-Warmest greeting from Haohe. PR is most welcomed for my repos. 
+<!-- Warmest greeting from Haohe. PR is most welcomed for my repos. -->
 
 <!-- I appreciate your support for open-source research. Creativity is for everyone. -->
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/haoheliuP) -->
 
-> "What good is a newborn baby?" -Franklin
+<!--  > "What good is a newborn baby?" -Franklin -->
 
 <!-- <a href="https://www.buymeacoffee.com/haoheliuP"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haoheliuP&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> -->
 

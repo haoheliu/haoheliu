@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
+I might be slow to respond to GitHub Issues. If you have a critical issue, please email me for a better resolution.
+
 <!-- Warmest greeting from Haohe. PR is most welcomed for my repos. -->
 
 <!-- I appreciate your support for open-source research. Creativity is for everyone. -->
